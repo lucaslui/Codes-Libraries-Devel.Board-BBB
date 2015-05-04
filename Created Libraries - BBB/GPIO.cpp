@@ -1,7 +1,7 @@
 /*
  * Arquivo: GPIO.cpp
  * Descrição do arquivo: Arquivo do código da classe GPIO, na qual faz a criação, acesso e
- * 						 configuração dos pinos de próposito geral da beaglebone.
+ * 			 configuração dos pinos de próposito geral da beaglebone.
  * Criado em: 02/05/2015
  * Autor: Lucas Lui Motta.
  */
