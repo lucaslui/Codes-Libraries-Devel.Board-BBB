@@ -1,7 +1,7 @@
-#include "LCD.h"		// Arquivo Header da classe LCD.
+#include "LCD.h"	// Arquivo Header da classe LCD.
 #include <iostream>     // Standart library C++.
 #include <unistd.h>     // Biblioteca padrão UNIX sistemas.
-#include "GPIO.h" // Biblioteca de Derek Moloy para a Beaglebone Black.
+#include "GPIO.h"       // Biblioteca de criação e uso das GPIO.
 
 GPIO* gpio_lcd = new GPIO();
 
