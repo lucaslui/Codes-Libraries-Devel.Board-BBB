@@ -1,3 +1,11 @@
+/*
+ * Arquivo: LCD.h
+ * Descrição do arquivo: Arquivo das definições (headers) da classe LCD, na qual faz a criação, acesso e
+ * 			 configuração de um display LCD 16x2 com controlador HD44780.
+ * Criado em: 25/02/2015
+ * Autor: Lucas Lui Motta.
+ */
+ 
 #ifndef HEADER_LCD_H_
 #define HEADER_LCD_H_
 
