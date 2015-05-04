@@ -1,3 +1,11 @@
+/*
+ * Arquivo: LCD.cpp
+ * Descrição do arquivo: Arquivo do código da classe LCD, na qual faz a criação, acesso e
+ * 			 configuração de um display LCD 16x2 com controlador HD44780.
+ * Criado em: 25/02/2015
+ * Autor: Lucas Lui Motta.
+ */
+
 #include "LCD.h"	// Arquivo Header da classe LCD.
 #include <iostream>     // Standart library C++.
 #include <unistd.h>     // Biblioteca padrão UNIX sistemas.
